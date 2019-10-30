@@ -415,3 +415,10 @@
 - Location: Oakland, USA
 - Bio: 📱 Full Stack Developer . 💻 Open Source Contributor. Artist 🔥
 - Github: https://github.com/MorkWood2
+
+
+### Omer Can Yazici
+- Photo: 
+- Location: Istanbul, TUrkey
+- Bio: System Administrator
+- Github: https://github.com/foolsjoke
